@@ -75,7 +75,7 @@ int main()
         float b=(hdr.at<Vec3f>(i, j)[0]);
         float g=(hdr.at<Vec3f>(i, j)[1]);
         float r=(hdr.at<Vec3f>(i, j)[2]);
-
+	cout<<1<<endl;
        // l[hdr.cols*i+j]=(hdr1.at<float>(i, j));
         x[hdr.cols*i+j]=b;
         y[hdr.cols*i+j]=g;
