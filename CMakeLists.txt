@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-
+# ls
 project(mai11_tone_mapping)
 #ls2
 find_package(OpenCV REQUIRED)
