@@ -49,6 +49,8 @@ inline float safelog10f( float x )
   return log10f( x );
 }
 
+
+
 int main()
 {
 
